@@ -1,10 +1,8 @@
-# TMF651_AgreementManagement
-TM Forum Open APIs (Apache 2.0) Agreement Management API
+# TMF651 AgreementManagement
 
-The Agreement API provides standardized mechanism for managing agreements, especially
+TM Forum Open API (Apache 2.0) AgreementManagement API.
+
 in the context on partnerships between partners.
 
-To access this API; (the Specification, Postman Collection, Swagger file, Swagger-UI,
-Reference Implementation, Conformance Profile, and CTK) go to the Open API table at:
-
-https://projects.tmforum.org/wiki/display/API/Open+API+Table
+The resources in this repository are a mirror of the official versions, published here for your convenience.
+The authoritative source of information for this API is: https://www.tmforum.org/oda/open-apis/directory/
